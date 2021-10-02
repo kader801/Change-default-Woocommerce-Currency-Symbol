@@ -21,9 +21,9 @@ Inside the file you can change the currency code of the country you want to have
 	
 		   
 
-You have to change the country code 'DZD'
+You have to change the country Symbol 'DZD'
 
-In this list you will find all country codes
+In this list you will find all country Symbols
     
                                         'AED' => __( 'United Arab Emirates dirham', 'woocommerce' ),
 					'AFN' => __( 'Afghan afghani', 'woocommerce' ),
