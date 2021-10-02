@@ -1,14 +1,19 @@
 # Change-default-Woocommerce-Currency-Symbol
 best webhosting cheap peices and multip paymenets methods https://hostkiv.com
+
 A plugin for WordPress and WooCommerce
+
 You have to download, install and activate the extension
+
 Now go to the following path from the file manager
+
 public_html/wp-content/plugins/techiepress-woo-currency/techiepress-change-currency-symbol.php
+
 Now click on the file and edit it
+
 Inside the file you can change the currency code of the country you want to have in your store
 
 Insert currency code from the get_woocommerce_currencies().
-
         case 'DZD' : $currency_symbol = 'DZD';
 	
         break;
