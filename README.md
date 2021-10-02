@@ -11,7 +11,7 @@ Inside the file you can change the currency code of the country you want to have
         case 'DZD' : $currency_symbol = 'DZD';
         break;
 		    
-    }
+
     
     You have to change the country code 'DZD'
     # In this list you will find all country codes
