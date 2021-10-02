@@ -13,6 +13,7 @@ Insert currency code from the get_woocommerce_currencies().
 		    
 
 You have to change the country code 'DZD'
+
 In this list you will find all country codes
     
     'AED' => __( 'United Arab Emirates dirham', 'woocommerce' ),
