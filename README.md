@@ -8,15 +8,18 @@ Now click on the file and edit it
 Inside the file you can change the currency code of the country you want to have in your store
 
 Insert currency code from the get_woocommerce_currencies().
+
         case 'DZD' : $currency_symbol = 'DZD';
+	
         break;
-		    
+	
+		   
 
 You have to change the country code 'DZD'
 
 In this list you will find all country codes
     
-    'AED' => __( 'United Arab Emirates dirham', 'woocommerce' ),
+                                        'AED' => __( 'United Arab Emirates dirham', 'woocommerce' ),
 					'AFN' => __( 'Afghan afghani', 'woocommerce' ),
 					'ALL' => __( 'Albanian lek', 'woocommerce' ),
 					'AMD' => __( 'Armenian dram', 'woocommerce' ),
