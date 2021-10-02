@@ -7,7 +7,7 @@ public_html/wp-content/plugins/techiepress-woo-currency/techiepress-change-curre
 Now click on the file and edit it
 Inside the file you can change the currency code of the country you want to have in your store
 
-	// Insert currency code from the get_woocommerce_currencies().
+Insert currency code from the get_woocommerce_currencies().
         case 'DZD' : $currency_symbol = 'DZD';
         break;
 		    
