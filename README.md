@@ -25,7 +25,7 @@ You have to change the country Symbol 'DZD'
 
 In this list you will find all country Symbols
     
-                                     'AED' => __( 'United Arab Emirates dirham', 'woocommerce' ),
+                                   'AED' => __( 'United Arab Emirates dirham', 'woocommerce' ),
 					'AFN' => __( 'Afghan afghani', 'woocommerce' ),
 					'ALL' => __( 'Albanian lek', 'woocommerce' ),
 					'AMD' => __( 'Armenian dram', 'woocommerce' ),
